@@ -86,21 +86,18 @@
       Podczas wycieczki odbywać gra terenowa przygotowana przez wojsko z bazy Nisko
       wszystkie punkty będą zaznaczone na mapie którą każdy uczestnik dostanie na początek wyprawy.
       Będą szkolenia z obsługi broni i obsługi wojskowego sprzętu
-      <br></br>
-      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko
+      <br>
+      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko <br />
 
-    <br></br>
       
       
 
 
     
     </div>
-
     <div id="ad">
-      <img src="reklama.jpg" alt="Reklama">
+    <img src="reklama.jpg" alt="Mapa">
     </div>
- 
    
     <div id="footer">
        Wycieczka Rowerowa- Michu 3301 &copy; Wszelkie prawa zastrzeżone
