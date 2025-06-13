@@ -76,18 +76,19 @@
       Oferuje też kawał historii, trasę partyzantów Ojca Jana jednego z dowódców partyzantów tej część polski 
       Oprócz tego w tych lasach krył się jeden z legend naszych okolic Jana Kossaka psełdonim "Harnaś"
       na szlaku bedziemy przejeżdżać przez miejscowoście takie jak
-      <br> - Jarocin</br>
-      <br> - Nalepy </br>
-      <br> - Szklarnia </br>
-      <br> - Momoty Górne </br>
+      <br> - Jarocin
+      <br> - Nalepy 
+      <br> - Szklarnia 
+      <br> - Momoty Górne 
       <img src="mapa.jpg" alt="Mapa">
-      Celem jest dotarcie na miejsce pamięci Porytowe Wzgórze
+      
+      <br>Celem jest dotarcie na miejsce pamięci Porytowe Wzgórze
       <h2> Atrakcje </h2>
       Podczas wycieczki odbywać gra terenowa przygotowana przez wojsko z bazy Nisko
       wszystkie punkty będą zaznaczone na mapie którą każdy uczestnik dostanie na początek wyprawy.
       Będą szkolenia z obsługi broni i obsługi wojskowego sprzętu
       <br>
-      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko <br />
+      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko 
 
       
       
@@ -95,9 +96,7 @@
 
     
     </div>
-    <div id="ad">
-    <img src="reklama.jpg" alt="Mapa">
-    </div>
+ 
    
     <div id="footer">
        Wycieczka Rowerowa- Michu 3301 &copy; Wszelkie prawa zastrzeżone
