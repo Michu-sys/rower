@@ -87,8 +87,18 @@
       Podczas wycieczki odbywać gra terenowa przygotowana przez wojsko z bazy Nisko
       wszystkie punkty będą zaznaczone na mapie którą każdy uczestnik dostanie na początek wyprawy.
       Będą szkolenia z obsługi broni i obsługi wojskowego sprzętu
-      <br>
-      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko 
+      
+      Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko <br />
+
+      <iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2539.123456789!2d21.012345678!3d52.229675678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc9c7777d7b3%3A0x1a2b3c4d5e6f7g8h!2sWarsaw%2C+Poland!5e0!3m2!1sen!2sus!4v1234567890"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+></iframe>
 
       
       
