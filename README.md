@@ -89,16 +89,7 @@
       Będą szkolenia z obsługi broni i obsługi wojskowego sprzętu
       
       Organizatorzy oferują też dla uczestników na końcu trasy piknik i ogńsko <br />
-
-      <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2539.123456789!2d21.012345678!3d52.229675678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc9c7777d7b3%3A0x1a2b3c4d5e6f7g8h!2sWarsaw%2C+Poland!5e0!3m2!1sen!2sus!4v1234567890"
-  width="600"
-  height="450"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy"
-  referrerpolicy="no-referrer-when-downgrade"
-></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d40511.72024175219!2d22.340109260439757!3d50.60886243527151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x47232b0531f94a15%3A0xe0ffbd93ca43ea10!2sJarocin%2C%20Wojew%C3%B3dztwo%20podkarpackie!3m2!1d50.5707701!2d22.3054925!4m5!1s0x47232f20bf886b35%3A0x44dd0b10d93eb599!2sPorytowe%20Wzg%C3%B3rze%20-%20cmentarz%20wojenny%20i%20pomnik!3m2!1d50.634903699999995!2d22.4627816!5e0!3m2!1spl!2spl!4v1750062129381!5m2!1spl!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
       
       
